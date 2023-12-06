@@ -1,0 +1,4 @@
+D:\Coding Project\text-to-speech\TTS\x64\Debug\TTS.vcxproj.AssemblyReference.cache
+D:\Coding Project\text-to-speech\TTS\x64\Debug\TTS.exe
+D:\Coding Project\text-to-speech\TTS\x64\Debug\TTS.TTS.resources
+D:\Coding Project\text-to-speech\TTS\x64\Debug\TTS.vcxproj.GenerateResource.cache

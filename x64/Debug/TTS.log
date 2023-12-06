@@ -1,0 +1,4 @@
+﻿  TTS.cpp
+D:\Coding Project\text-to-speech\TTS\TTS.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  TTS.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TTS.vcxproj -> D:\Coding Project\text-to-speech\TTS\x64\Debug\TTS.exe
